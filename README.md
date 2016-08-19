@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 Jesus Christ it's Jason Bourne...
 
